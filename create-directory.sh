@@ -7,7 +7,6 @@ mkdir store
 mkdir components
 mkdir pages
 mkdir routes
-mkdir pages
 mkdir theme
 mkdir __tests__
 cd __tests__
@@ -19,5 +18,4 @@ mkdir models
 mkdir components
 mkdir pages
 # mkdir routes
-mkdir pages
 # mkdir theme
