@@ -6,8 +6,9 @@ mkdir models
 mkdir store
 mkdir components
 mkdir pages
-mkdir routes
+mkdir route
 mkdir theme
+mkdir globalstates
 mkdir __tests__
 cd __tests__
 mkdir api
@@ -17,5 +18,6 @@ mkdir models
 # mkdir store
 mkdir components
 mkdir pages
-# mkdir routes
+# mkdir route
 # mkdir theme
+# mkdir globalstates
